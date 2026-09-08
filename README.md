@@ -57,7 +57,7 @@ I enjoy creating attractive, user-friendly, and efficient web applications with 
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,antigravity" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,antigravityide" />
 </p>
 
 ---
