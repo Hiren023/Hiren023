@@ -2,7 +2,7 @@
 <h3 align="center">🎓 MCA Student | 💻 Web Developer | 🚀 Building modern web experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+%7C+Web+Development+Enthusiast;I+love+crafting+responsive+and+interactive+web+apps;Always+learning+new+technologies+and+best+practices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MCA+Stud[...]" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🙋‍♂️ Welcome Visitor
 
 ✨ Thank you for visiting my profile!  
-I’m currently pursuing an **MCA (Master of Computer Applications)** and have a strong foundation in **Web Development**.  
+I'm currently pursuing an **MCA (Master of Computer Applications)** and have a strong foundation in **Web Development**.  
 I enjoy creating attractive, user-friendly, and efficient web applications with smooth UI interactions.
 
 ---
@@ -78,7 +78,7 @@ I enjoy creating attractive, user-friendly, and efficient web applications with 
 ## ✨ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiren023&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiren023&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
