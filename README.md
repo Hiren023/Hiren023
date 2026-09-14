@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiren Jinjala</h1>
-<h3 align="center">🎓 MCA Student | 💻 Web Developer | 🚀 Building modern web experiences</h3>
+<h3 align="center">🎓 MCA Student  | 💻 Web Developer | 🚀 Building modern web experiences</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MCA+Stud[...]" />
